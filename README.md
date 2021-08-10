@@ -13,4 +13,4 @@ Code implementation in progress
 
 possible commit date: 1st September 2021
 
-please check for details: Project-documentation repository, Backup-models-presentation file and the research paper: "Cezanne-ai: a conversational AI open-framework for multi-domains, all the languages and limited data"
+please check for details: Project-documentation repository (Cezanne-ai project file) and the research paper: "Cezanne-ai: a conversational AI open-framework for multi-domains, all the languages and limited data"
