@@ -7,7 +7,7 @@ Implementation of the three backup models from Cezanne-ai framework:
 
 These models will be implemented with the same datasets as the main Cezanne-ai model, but in this repository will be implemented independent from the Cezanne.ai framework flow.
 
-The final form of this models will be committed in the Open-framework repository together with the other layers of the open-framework.
+The final form of this model will be committed in new repository together with the other layers: CPL, NOG/NLG and NIU/NLU
 
 Code implementation in progress
 
