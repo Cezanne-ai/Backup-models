@@ -11,6 +11,6 @@ The final form of this model will be committed in new repository together with t
 
 Code implementation in progress
 
-possible commit date: 1st September 2021
+possible commit date: 15 September 2021
 
 please check for details: Project-documentation repository (Cezanne-ai project file) and the research paper: "Cezanne-ai: a conversational AI open-framework for multi-domains, all the languages and limited data"
